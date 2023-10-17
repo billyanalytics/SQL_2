@@ -264,3 +264,7 @@ Segue o [dicionário](https://github.com/billyanalytics/ERP_Desafio2/blob/main/D
 
 * Compartilhe com outras pessoas esse projeto 📢;
 * Quer saber mais sobre o projeto? Entre em contato para tomarmos um :coffee:;
+---
+⌨️ por [Alan Billy](https://github.com/billyanalytics)  e [Steel Ferreira](https://github.com/steelferreira)👨‍💻🤜
+
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/29084827/164712340-6b03015f-a428-4731-b1b9-a5605de203b2.svg)
