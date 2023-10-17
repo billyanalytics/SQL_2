@@ -81,7 +81,7 @@ A modelagem conceitual é a primeira etapa do processo de design de banco de dad
 ## Lógica
 A modelagem lógica envolve a conversão do modelo conceitual em tabelas e relacionamentos específicos para um SGBD. Abaixo, descrevemos as tabelas e seus campos:
 
-![](https://github.com/billyanalytics/ERP_Desafio2/blob/main/Imagem/Modelo%20L%C3%B3gico%201.png?raw=true)
+![](https://github.com/billyanalytics/ERP_Desafio2/blob/main/Imagem/ERP2%20-%20Logica.png?raw=true)
 
 ## Física
 Todas as informações coletadas são convertidas em modelos relacionais e modelos de negócios. Durante a modelagem física, os objetos são definidos em um nível denominado nível de esquema. Um esquema é considerado um grupo de objetos que estão relacionados entre si em um banco de dados.
@@ -144,7 +144,7 @@ CREATE DATABASE ERP_Desafio2;
            cdcli INT,
            agecli INT,
            clacli VARCHAR(10),
-           sxcli VARCHAR(1),
+           sxcli CHAR(1),
            cidcli VARCHAR(50),
            estcli VARCHAR(2),
            paiscli VARCHAR(20),
@@ -229,7 +229,7 @@ CREATE DATABASE ERP_Desafio2;
     ```sql
     SELECT * FROM itemvenda;
     ```
-    ![](https://github.com/billyanalytics/ERP_Desafio2/blob/main/Imagem/Vendas.png?raw=true)
+    ![](https://github.com/billyanalytics/ERP_Desafio2/blob/main/Imagem/itemvenda.png?raw=true)
    
   - Vendas
     ```sql
