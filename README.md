@@ -25,7 +25,7 @@
    - Mais alguma necessidade que deseja nos informar? `R.Normalmente, nossos clientes tem uma classificação com base nas compras que já fizeram, se puderem adicionar...`
 
 ## Status
-![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=STATUS&message=EmDesenvolvimento&color=yellow&style=for-the-badge)
+![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=yellow&style=for-the-badge)
 
 # Iniciando Desafio
 
