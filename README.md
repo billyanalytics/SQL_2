@@ -3,10 +3,10 @@
 [![Professor](https://img.shields.io/badge/Professor-AlexSouza-red.svg)](https://github.com/aasouzaconsult) 
 ![Assunto](https://img.shields.io/badge/Assunto-modelagem-yellow.svg)
 <!-- Imagem redimensionada -->
-<img src="https://digitalcollege.com.br/wp-content/webp-express/webp-images/uploads/2022/05/logo-digital.png.webp" alt="texto alt" width="300">
+<img src="https://digitalcollege.com.br/wp-content/uploads/2022/05/logo-digital-1536x578.png" alt="texto alt" width="100">
 
 <!-- Imagem redimensionada -->
-<img src="https://skyone.solutions/core/webp-express/webp-images/uploads/2020/09/8_skyone-banner-site-3_0000_layer-comp-1-1.jpg.webp" alt="texto alt" width="800">
+<img src="https://miro.medium.com/v2/resize:fit:730/1*BVfELHUXHQkgF0QZzp7N9A.png" alt="texto alt" width="800">
 
 # ERP_Desafio2
 ## Requisitos do cliente 💼
